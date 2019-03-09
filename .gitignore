@@ -1,0 +1,5 @@
+*.pickle
+.idea/
+__pycache__/
+venv/
+requirement.txt
